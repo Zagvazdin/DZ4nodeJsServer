@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Иван Иванов",
+    "age": 25,
+    "email": "ivan.ivanov@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Сергей Смирнов",
+    "age": 28,
+    "email": "sergey.smirnov@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Сергей Смирнов",
+    "age": 28,
+    "email": "sergey.smirnov@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Иван Иванов",
+    "age": 25,
+    "email": "ivan.ivanov@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Иван Иванов",
+    "age": 25,
+    "email": "ivan.ivanov@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Сергей Смирнов",
+    "age": 28,
+    "email": "sergey.smirnov@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Сергей Смирнов",
+    "age": 28,
+    "email": "sergey.smirnov@example.com"
+  }
+]
